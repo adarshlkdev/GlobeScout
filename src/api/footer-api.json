@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "PiCoffeeFill",
+    "title": "Portfolio",
+    "link": "adarshlkdev.tech"
+  },
+  {
+    "icon": "FaGithub",
+    "title": "Github",
+    "link": "https://github.com/adarshlkdev"
+  },
+  {
+    "icon": "FaLinkedin",
+    "title": "Linkedin",
+    "link": "https://linkedin.com/in/adarshlkdev"
+  }
+]

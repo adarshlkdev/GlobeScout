@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "7.9 billion",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 9,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the world's largest democracy, with over 1.3 billion people."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 10,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "interestingFact": "The United States is home to the world's oldest national park, Yellowstone National Park."
+  },
+  {
+    "id": 11,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "id": 12,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact": "Germany is known for its beer, with over 1,300 breweries producing more than 5,000 different beers."
+  },
+  {
+    "id": 13,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60461826,
+    "interestingFact": "Italy is home to the largest number of UNESCO World Heritage Sites in the world."
+  },
+  {
+    "id": 14,
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "population": 46754778,
+    "interestingFact": "Spain is known for its siestas, a short nap taken in the early afternoon."
+  },
+  {
+    "id": 15,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan is known for its cherry blossoms, which bloom in the spring and are celebrated with hanami, or flower-viewing parties."
+  },
+  {
+    "id": 16,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51269185,
+    "interestingFact": "South Korea is known for its K-pop music and Korean dramas, which have gained international popularity."
+  },
+  {
+    "id": 17,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "interestingFact": "Mexico is home to the world's largest pyramid, the Great Pyramid of Cholula."
+  },
+  {
+    "id": 18,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "interestingFact": "Canada is the second-largest country in the world by area, covering more than 9.9 million square kilometers."
+  }
+]
