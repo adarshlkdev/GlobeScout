@@ -36,7 +36,7 @@ GlobeScout is a React application that provides information about countries arou
 3. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     The application will be available at `http://localhost:3000`.
