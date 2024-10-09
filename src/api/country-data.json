@@ -124,5 +124,12 @@
     "capital": "Ottawa",
     "population": 37742154,
     "interestingFact": "Canada is the second-largest country in the world by area, covering more than 9.9 million square kilometers."
+  },
+  {
+    "id": 19,
+    "countryName": "Madagascar",
+    "capital": "Antananarivo",
+    "population": 30374000,
+    "interestingFact": "Madagascar is known for its unique biodiversity, with 90% of its wildlife found nowhere else, including lemurs and baobab trees. The island also has a rich cultural heritage influenced by African, Asian, and European traditions."
   }
 ]
