@@ -392,6 +392,27 @@ ul {
   color: #878787;
 }
 
+
+@media (max-width: 768px) {
+  .grid-two-cols {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .grid-three-cols {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-menu {
+    margin-top: 10px;
+  }
+
+  .footer-contact {
+    justify-content: center;
+  }
+}
+
 /* --------------- 
 country Card 
 ------------------ */
