@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
   margin: 0;
@@ -13,11 +12,15 @@
 
 html {
   font-size: 62.5%;
-  font-family:Poppins, sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 body {
   background-color: black;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 h1,
@@ -81,7 +84,7 @@ button {
 
 .container {
   max-width: 140rem;
-  margin: auto;
+  margin: 2.5rem auto;
 }
 
 .grid {
@@ -132,7 +135,7 @@ nav ul {
   }
 }
 
-.no-underline{
+.no-underline {
   text-decoration: none;
 }
 
@@ -415,7 +418,7 @@ country Card
 }
 
 /*pagination  */
-.pagination-controls{
+.pagination-controls {
   display: flex;
   justify-content: center;
   gap: 1.6rem;
@@ -457,12 +460,12 @@ country Card
   }
 }
 
-.search-input{
+.search-input {
   width: 100%;
   padding: 0.8rem 2.4rem;
   background: linear-gradient(71deg, #080509, #1a171c, #080509);
   border: 0.05rem solid #fff;
-  font-family:'Poppins';
+  font-family: "Poppins";
   font-size: 1.55rem;
   font-weight: bold;
   letter-spacing: 0.1rem;
@@ -483,7 +486,7 @@ country Card
   }
 
   & input {
-    font-family:"Poppins";
+    font-family: "Poppins";
     font-size: 1.55rem;
     font-weight: bold;
     letter-spacing: 0.1rem;
