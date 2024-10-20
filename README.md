@@ -23,7 +23,7 @@ GlobeScout is a React application that provides information about countries arou
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/globescout.git
+    git clone https://github.com/adarshlkdev/globescout.git
     cd globescout
     ```
 
